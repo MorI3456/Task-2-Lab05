@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 // Class for Problem 2: BirthMonth
